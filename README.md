@@ -10,7 +10,7 @@ PetCore é um sistema de cadastro e gerenciamento de animais, desenvolvido para 
 
 - **Java 17**: Linguagem de programação principal.
 - **Spring Boot 2.7.0**: Framework para desenvolvimento de aplicações Java.
-- **PostgreSQL 14**: Banco de dados relacional.
+- **PostgreSQL**: Banco de dados relacional.
 - **Swagger**: Documentação da API.
 
 ## Features
